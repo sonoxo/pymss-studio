@@ -1,3 +1,40 @@
+<div align="center">
+
+<img width="100%" src="docs/assets/sonoxo-ecosystem-orbit.svg" alt="PYMSS AUDIO LAB animated system flow" />
+
+# PYMSS AUDIO LAB
+
+### Pymss Studio wraps the external `pymss` separation engine in a Tauri and Vue desktop workflow.
+
+[Beginner map](#beginner-map) · [Original documentation](#original-documentation)
+
+</div>
+
+## Beginner map
+
+**01 — Import audio** → **02 — Choose a downloaded model** → **03 — Run separation** → **04 — Review or edit stems** → **05 — Export the result**
+
+| Signal | What it means |
+|---|---|
+| **Input** | The starting request, file, data, or question |
+| **Core** | The project’s main processing or navigation step |
+| **Output** | The result a person reviews or uses |
+| **Verification** | Check source, configuration, test evidence, maintenance, and license before relying on it |
+
+> [!IMPORTANT]
+> **Repository status:** Fork or mirror of `pymss-project/pymss-studio`. The upstream Pymss project, AGPL-3.0 license, release links, model requirements, and original attribution are preserved below.
+
+<details>
+<summary><strong>Accessible motion</strong></summary>
+
+The SVG includes descriptive text and automatically disables animation when **Reduce Motion** is enabled. It uses no JavaScript, trackers, autoplay video, or external image host.
+
+</details>
+
+---
+
+## Original documentation
+
 <!-- markdownlint-disable MD013 MD033 MD041 -->
 
 <p align="center">
